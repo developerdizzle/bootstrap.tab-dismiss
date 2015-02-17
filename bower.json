@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap.tab-dismiss",
+  "main": "bootstrap.tab-dismiss.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/developerdizzle/bootstrap.tab-dismiss",
+  "authors": [
+    "dzl"
+  ],
+  "description": "Allows data-dismiss=\"tab\" markup",
+  "keywords": [
+    "bootstrap",
+    "tab",
+    "dismiss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
